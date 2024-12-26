@@ -16,7 +16,7 @@
 - 🌱 **Learning:** BackEnd Development (Node.js, Express.js, MongoDB)
 - 👨‍💻 **My Projects:** [Check them here!](https://github.com/MohitKhubchandani)
 - 📝 **Articles:** [Read my Medium blog](https://medium.com/@mohitkhubchandani88)
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Node.js, React, MongoDB Etc.**
 - 📫 **Contact me:** mohitkhubchandani88@gmail.com
 - ⚡ **Fun fact:** I am Funny 😄
 
