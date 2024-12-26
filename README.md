@@ -10,7 +10,6 @@
 </p>
 
 <img align="right" alt="Coding Ninja GIF" width="200" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" />
----
 
 ### 🔭 About Me:
 - 🌟 **Currently working on:** [Messaging_Slack Backend](https://github.com/MohitKhubchandani/Messaging_Slack_Backend.git)
