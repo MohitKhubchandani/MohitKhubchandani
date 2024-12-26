@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=mohitkhubchandani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding Ninja GIF" width="300" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" />
+<img align="right" alt="Coding Ninja GIF" width="200" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" />
 ---
 
 ### 🔭 About Me:
