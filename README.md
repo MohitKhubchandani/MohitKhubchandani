@@ -14,7 +14,7 @@
 ### 🔭 About Me:
 - 🌟 **Currently working on:** [Messaging_Slack Backend](https://github.com/MohitKhubchandani/Messaging_Slack_Backend.git)
 - 🌱 **Learning:** BackEnd Development (Node.js, Express.js, MongoDB)
-- 👨‍💻 **My Projects:** [Check them here!]((https://github.com/MohitKhubchandani?tab=repositories))
+- 👨‍💻 **My Projects:** [Check them here!]([(https://github.com/MohitKhubchandani?tab=repositories)](https://github.com/MohitKhubchandani?tab=repositories))
 - 📝 **Articles:** [Read my Medium blog](https://medium.com/@mohitkhubchandani88)
 - 💬 Ask me about **Node.js, React, MongoDB Etc.**
 - 📫 **Contact me:** mohitkhubchandani88@gmail.com
